@@ -2,4 +2,5 @@ ipywidgets>=7.0,<8.0
 jupyter
 notebook
 numpy
+tensorflow>=2
 torch
